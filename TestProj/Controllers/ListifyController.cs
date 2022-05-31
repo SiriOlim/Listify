@@ -5,7 +5,7 @@ using TestProj.Resources;
 
 namespace TestProj.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     [ApiController]
     public class ListifyController : ControllerBase
     {
