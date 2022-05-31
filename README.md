@@ -1,6 +1,6 @@
 # Listify
 
-(1) If you don’t already have a free Azure dev account, go set that up now
+(1) Set up a free Azure dev account
 
 (2) Set up a public repo on GitHub
 
