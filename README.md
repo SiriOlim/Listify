@@ -15,3 +15,5 @@
 (4) Deploy this WebAPI endpoint into Azure
 
 (5) https://listify.azurewebsites.net/swagger/index.html
+
+(6) Test WebAPI using postman - https://i.imgur.com/Ef4GCns.png
